@@ -303,5 +303,6 @@ public class findResultActivity extends AppCompatActivity {
 本次实验，了解activity的生命周期，熟悉并掌握基本的不同的activity之间的跳转与传值。
 遇到过一些bug，感谢同学的帮助以及相关指导.
 
+仓库地址:https://github.com/J1syan/ASProj2/tree/main/as2
 
 
