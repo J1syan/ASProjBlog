@@ -244,7 +244,7 @@ AndroidManifest.xml
 
 
 效果图:</br>
-<img src="../ASProjBlog/images/13.gif">
+<img src="images/13.gif" width="100px"/>
 
 
 ### 代码仓库
